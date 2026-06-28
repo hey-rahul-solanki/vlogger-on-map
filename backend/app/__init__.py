@@ -1,0 +1,2 @@
+"""Vlog map FastAPI application."""
+
