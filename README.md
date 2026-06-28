@@ -2,6 +2,8 @@
 
 A free-friendly MVP that turns travel vlogs into a destination-first discovery map. It is positioned as a social-proof travel discovery app, not a generic trip planner.
 
+![Application Screenshot 1](first_draft_vlogger_on_map.png)
+
 ## Stack
 
 - Frontend: React, TypeScript, Vite, MapLibre GL JS
